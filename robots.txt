@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-e59cbn.keitaro-tech-rtb.online/sitemap.xml
